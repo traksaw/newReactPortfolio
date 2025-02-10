@@ -12,3 +12,5 @@ Currently, two official plugins are available:
 Clone the Repository
 cd into the project folder (if necessary)
 npm install
+
+# Usage
