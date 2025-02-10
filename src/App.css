@@ -1,0 +1,16 @@
+.dark {
+    color: white;
+    background: black;
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+    button {
+      background: white;
+      color: black;
+      padding: 5px 10px;
+      border-radius: 5px;
+    }
+    .projectCard{
+      background: darkorchid;
+    }
+  }
